@@ -12,6 +12,7 @@ In this specific implementation, there is no explicit inheritance. However, the 
 
 By using OOP concepts, the program becomes more organized, maintainable, and extensible. It separates concerns and allows us to focus on specific functionalities within individual classes.
 
+![image](https://github.com/user-attachments/assets/42bfab22-b498-4974-a912-9d6b500cb5fa)
 
 
 ## _TODO_
